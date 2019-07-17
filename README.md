@@ -1,6 +1,15 @@
-# SobatdokterWeb
+# sobatbisnis-web
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+
+1. Routing
+2. Lazy-loading
+3. Server Side Rendering
+4. Progressive WebApp
+
+## Lighthouse Audits
+
+<img  alt="lighthouse" src="https://i.ibb.co/vXcvRpn/Screen-Shot-2019-07-17-at-4-17-47-PM.png" class="img-responsive">
 
 ## Development server
 
